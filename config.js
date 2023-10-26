@@ -1,6 +1,6 @@
 /*
-WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
+WHATSAPP BOT BY Call me bro 
+WHATSAPP - 9562530542
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
@@ -23,11 +23,11 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '9562530542'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Call me bro'
 
-global.TIMEZONE = 'Asia/Colombo' 
+global.TIMEZONE = 'India/Bangalore' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
